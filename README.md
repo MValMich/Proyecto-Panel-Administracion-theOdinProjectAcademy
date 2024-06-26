@@ -1,1 +1,1 @@
-# Proyecto-Panel-de-administraci-n
+# Proyecto-Panel-de-administración
